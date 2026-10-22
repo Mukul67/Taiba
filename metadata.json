@@ -1,0 +1,6 @@
+{
+  "name": "Tamanna Cold Storage",
+  "description": "তামান্না স্পেশালাইজড কোল্ড স্টোরেজ - আলু বুকিং, সংরক্ষণ ও ডিও খালাস ব্যবস্থাপনা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
